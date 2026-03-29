@@ -4,4 +4,4 @@
 - 📊 Estatística e Ciência de Dados
 - 📎 Modelos de Documentos
 
-![ClassicHalloweenGIF](https://github.com/user-attachments/assets/390a3f5e-d5fd-4f23-8fcb-dc439f4ca165)
+![BuliVanDancingGIF](https://github.com/user-attachments/assets/32c12cc0-33d2-429c-8340-80aa5a97035b)
